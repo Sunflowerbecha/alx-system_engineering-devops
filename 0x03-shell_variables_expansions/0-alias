@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls = "me*"
+alias ls ="me*"
